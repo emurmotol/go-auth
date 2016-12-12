@@ -1,1 +1,1 @@
-# go_auth
+# go-auth
